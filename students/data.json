@@ -1,0 +1,11 @@
+[
+    {
+        "model":"api.Students",
+        "pk": 1,
+        "fields":{
+            "name": "raviprasad",
+            "rollnumber": "BVRIT1243",
+            "dateofbirth": "1993-04-20"
+        }
+    }
+]
