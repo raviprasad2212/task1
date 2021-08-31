@@ -1,10 +1,28 @@
 [
     {
-        "model":"api.Students",
+        "model":"japi.Students",
         "pk": 1,
         "fields":{
             "name": "raviprasad",
             "rollnumber": "BVRIT1243",
+            "dateofbirth": "1993-04-20"
+        }
+    },
+    {
+        "model":"japi.Students",
+        "pk": 2,
+        "fields":{
+            "name": "kalyan",
+            "rollnumber": "BVRIT1234",
+            "dateofbirth": "1993-04-20"
+        }
+    },
+    {
+        "model":"japi.Students",
+        "pk": 3,
+        "fields":{
+            "name": "raviprasad",
+            "rollnumber": "BVRIT12435",
             "dateofbirth": "1993-04-20"
         }
     }

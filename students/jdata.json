@@ -1,0 +1,10 @@
+[
+    {
+        "model": "japi.StudentMarks",
+        "pk": 1,
+        "fields":{
+            "rollnumber": "BVRIT1243",
+            "marks": 55
+        }
+    }
+]

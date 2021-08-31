@@ -5,4 +5,4 @@ from rest_framework import serializers
 class StudentsSerializsers(serializers.ModelSerializer):
     class Meta:
         model = Students
-        fields = ["name", "rollnumber", "dateofbirth"]
+        fields = "__all__"
